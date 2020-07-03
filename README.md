@@ -21,7 +21,7 @@
 
 使用例
 
-<img width="344" alt="3862b28044db21c0251070b56ece0953" src="https://user-images.githubusercontent.com/60650659/86477046-a0d60480-bd82-11ea-92c6-c5d1a2e14b91.png">
+<img width="498" alt="751e951e5494e96eab9f17da5f8ee5d1" src="https://user-images.githubusercontent.com/60650659/86477916-56ee1e00-bd84-11ea-8285-c1ec0dccc9de.png">
 
 DB設計:
 

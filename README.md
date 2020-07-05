@@ -23,6 +23,9 @@
 
 <img width="498" alt="751e951e5494e96eab9f17da5f8ee5d1" src="https://user-images.githubusercontent.com/60650659/86477916-56ee1e00-bd84-11ea-8285-c1ec0dccc9de.png">
 
-DB設計:
+# DB設計:
+|Column|Type|Options|
+|------|----|-------|
+|title|string|null: false|
 
 
